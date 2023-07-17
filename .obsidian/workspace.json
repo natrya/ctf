@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a6b81029799cdf87",
+        "id": "18a3a560487ca57c",
         "type": "tabs",
         "children": [
           {
-            "id": "205668d56fbced67",
+            "id": "37cce4d408d51960",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "forensic/0x01 - disk file.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 200
   },
   "right": {
     "id": "9cfe5c0d09b64d39",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "forensic/0x01 - disk file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "forensic/0x01 - disk file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "forensic/0x01 - disk file.md"
+              }
             }
           }
         ]
@@ -146,53 +154,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "205668d56fbced67",
+  "active": "37cce4d408d51960",
   "lastOpenFiles": [
-    "README.md",
-    "LICENSE",
-    "web",
-    "reverse engineering",
-    "forensic/0x04 - android file.md",
+    "forensic/0x02 - image file.md",
+    "forensic/0x01 - disk file.md",
+    "forensic/gambar/flag-3.png",
+    "forensic/gambar/string.png",
+    "forensic/gambar/salt.png",
+    "forensic/gambar/mmls-4.png",
+    "forensic/gambar/ssh.png",
+    "forensic/0x05 - android file.md",
     "forensic/0x03 - memory dump file.md",
-    "forensic/0x02 - disk file.md",
-    "forensic/0x01 - pcap file.md",
-    "forensic",
+    "forensic/0x04 - pcap file.md",
+    "forensic/Rangkuman.md",
+    "forensic/gambar/salted.png",
+    "forensic/gambar/autopsy.png",
+    "forensic/gambar",
+    "forensic/gambar/mmls-3.png",
+    "forensic/gambar/openssh.png",
+    "forensic/gambar/perm.png",
     "Cryptography/0x05 - steganography.md",
     "Cryptography/0x04 - DES.md",
     "Cryptography/0x03 - AES.md",
     "Cryptography/0x02 - RSA.md",
     "Cryptography/0x01-simple.md",
-    "Cryptography",
-    "Binary exploitation/stack-frame-untuk menyimpan shellcode.png",
-    "Binary exploitation/stack-frame-fungsi dengan parameter.png",
-    "Binary exploitation/stack-frame-64-dengan-param.png",
-    "Binary exploitation/memory-layout-1.png",
-    "Binary exploitation/README.md",
-    "Binary exploitation/PicoCTF - binary exploitation.md",
-    "Binary exploitation/5.png",
-    "Binary exploitation/4.png",
-    "Binary exploitation/3.png",
-    "Binary exploitation/2.png",
-    "Binary exploitation/1.png",
-    "Binary exploitation/0x09-bypass PIE protection-brute force.md",
-    "Binary exploitation/0x08-format-string -32 bit & 64 bit.md",
     "Binary exploitation/0x07-bypass NX using ret2libc - 64 bit.md",
     "Binary exploitation/0x06-bypass NX,PIE using ret2libc-32 bit.md",
-    "Binary exploitation/0x06-bypass NX using ret2libc-32 bit.md",
-    "Binary exploitation/0x05-menaruh shellcode didalam buffer stack 32 bit.md",
-    "Binary exploitation/0x04-fungsi dengan param - 64 bit.md",
     "Binary exploitation/0x03-fungsi dengan param - 32 bit.md",
+    "Binary exploitation/0x04-fungsi dengan param - 64 bit.md",
     "Binary exploitation/0x02-Klasik 32 bit & 64 bit.md",
     "Binary exploitation/0x01-Teori.md",
     "Binary exploitation/0x00-Referensi.md",
+    "README.md",
+    "LICENSE",
+    "web",
+    "reverse engineering",
+    "forensic",
+    "Cryptography",
+    "Binary exploitation/README.md",
+    "Binary exploitation/PicoCTF - binary exploitation.md",
+    "Binary exploitation/0x09-bypass PIE protection-brute force.md",
+    "Binary exploitation/0x08-format-string -32 bit & 64 bit.md",
+    "Binary exploitation/0x06-bypass NX using ret2libc-32 bit.md",
+    "Binary exploitation/0x05-menaruh shellcode didalam buffer stack 32 bit.md",
     "Binary exploitation",
     "ctf/web",
     "ctf/reverse engineering",
-    "ctf/forensic/0x02 - disk file.md",
-    "ctf/forensic/0x04 - android file.md",
-    "ctf/forensic/0x03 - memory dump file.md",
-    "ctf/forensic",
-    "ctf/Cryptography",
-    "ctf/Binary exploitation/stack-frame-untuk menyimpan shellcode.png"
+    "ctf/forensic"
   ]
 }
