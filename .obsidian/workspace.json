@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensic/0x01 - disk file.md",
+                "file": "Binary exploitation/0x07-bypass NX using ret2libc - 64 bit.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensic/0x01 - disk file.md",
+                "file": "Binary exploitation/0x07-bypass NX using ret2libc - 64 bit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensic/0x01 - disk file.md",
+                "file": "Binary exploitation/0x07-bypass NX using ret2libc - 64 bit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensic/0x01 - disk file.md"
+                "file": "Binary exploitation/0x07-bypass NX using ret2libc - 64 bit.md"
               }
             }
           }
@@ -154,52 +154,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37cce4d408d51960",
+  "active": "65b2e2a0dd38e5af",
   "lastOpenFiles": [
-    "forensic/0x02 - image file.md",
+    "Binary exploitation/0x06-bypass NX,PIE using ret2libc-32 bit.md",
+    "Binary exploitation/0x06-bypass NX using ret2libc-32 bit.md",
+    "Binary exploitation/0x05-menaruh shellcode didalam buffer stack 32 bit.md",
+    "Binary exploitation/0x04-fungsi dengan param - 64 bit.md",
+    "Binary exploitation/0x03-fungsi dengan param - 32 bit.md",
+    "Binary exploitation/0x07-bypass NX using ret2libc - 64 bit.md",
+    "Binary exploitation/PicoCTF - binary exploitation.md",
+    "Binary exploitation/README.md",
+    "Binary exploitation/0x09-bypass PIE protection-brute force.md",
+    "Binary exploitation/0x08-format-string -32 bit & 64 bit.md",
+    "Binary exploitation/0x01-Teori.md",
+    "Binary exploitation/0x00-Referensi.md",
+    "Binary exploitation/0x02a-Klasik 32 bit & 64 bit dengan NX.md",
+    "Binary exploitation/0x02-Klasik 32 bit & 64 bit.md",
+    "Binary exploitation/gambar/stack-frame-64-dengan-param.png",
+    "Binary exploitation/gambar/memory-layout-1.png",
+    "Binary exploitation/gambar/1.png",
+    "Binary exploitation/gambar",
+    "forensic/0x04 - pcap file.md",
     "forensic/0x01 - disk file.md",
+    "forensic/0x02 - image file.md",
+    "forensic/Rangkuman.md",
+    "Cryptography/0x05 - steganography.md",
+    "Cryptography/0x01-simple.md",
+    "Cryptography/0x02 - RSA.md",
+    "forensic/0x03 - memory dump file.md",
+    "forensic/0x05 - android file.md",
     "forensic/gambar/flag-3.png",
     "forensic/gambar/string.png",
     "forensic/gambar/salt.png",
     "forensic/gambar/mmls-4.png",
     "forensic/gambar/ssh.png",
-    "forensic/0x05 - android file.md",
-    "forensic/0x03 - memory dump file.md",
-    "forensic/0x04 - pcap file.md",
-    "forensic/Rangkuman.md",
     "forensic/gambar/salted.png",
     "forensic/gambar/autopsy.png",
     "forensic/gambar",
-    "forensic/gambar/mmls-3.png",
-    "forensic/gambar/openssh.png",
-    "forensic/gambar/perm.png",
-    "Cryptography/0x05 - steganography.md",
     "Cryptography/0x04 - DES.md",
     "Cryptography/0x03 - AES.md",
-    "Cryptography/0x02 - RSA.md",
-    "Cryptography/0x01-simple.md",
-    "Binary exploitation/0x07-bypass NX using ret2libc - 64 bit.md",
-    "Binary exploitation/0x06-bypass NX,PIE using ret2libc-32 bit.md",
-    "Binary exploitation/0x03-fungsi dengan param - 32 bit.md",
-    "Binary exploitation/0x04-fungsi dengan param - 64 bit.md",
-    "Binary exploitation/0x02-Klasik 32 bit & 64 bit.md",
-    "Binary exploitation/0x01-Teori.md",
-    "Binary exploitation/0x00-Referensi.md",
-    "README.md",
     "LICENSE",
     "web",
     "reverse engineering",
     "forensic",
     "Cryptography",
-    "Binary exploitation/README.md",
-    "Binary exploitation/PicoCTF - binary exploitation.md",
-    "Binary exploitation/0x09-bypass PIE protection-brute force.md",
-    "Binary exploitation/0x08-format-string -32 bit & 64 bit.md",
-    "Binary exploitation/0x06-bypass NX using ret2libc-32 bit.md",
-    "Binary exploitation/0x05-menaruh shellcode didalam buffer stack 32 bit.md",
     "Binary exploitation",
     "ctf/web",
-    "ctf/reverse engineering",
-    "ctf/forensic"
+    "ctf/reverse engineering"
   ]
 }
