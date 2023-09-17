@@ -26,7 +26,7 @@ cd <filename.extracted>
 lzip -d -k <filename>
 
 - tipe = "LZ4 compressed data"
-lz4 -d <filename> <output>
+lz4 -d <filename>
 
 - tipe = "LZMA compressed data"
 lzma -d -k <filename>
